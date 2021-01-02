@@ -22,6 +22,8 @@
 ![这里写图片描述](https://img-blog.csdnimg.cn/img_convert/ec9fcf7d19cd2760676081a159af793a.png)
 ![这里写图片描述](https://img-blog.csdnimg.cn/img_convert/0c59db9e9377b4c659a2149c3dabdc30.png)
 ![这里写图片描述](https://img-blog.csdnimg.cn/img_convert/bccf84656bb02fba274ce130c9c10b17.png)
+![](https://github.com/Vuact/loveLetter/blob/master/img/7.gif?raw=true)
+![这里写图片描述](https://github.com/Vuact/loveLetter/blob/master/img/5.gif?raw=true)
 
 
 
